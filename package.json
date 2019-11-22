@@ -1,6 +1,6 @@
 {
   "name": "searchkit-color-picker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Allows picking of labels and associated colors via searchkit",
   "main": "dist/src/index.js",
   "scripts": {

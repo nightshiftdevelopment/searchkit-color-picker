@@ -1,0 +1,1 @@
+# searchkit-color-picker

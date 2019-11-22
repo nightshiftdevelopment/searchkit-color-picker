@@ -1,0 +1,31 @@
+{
+  "name": "searchkit-color-picker",
+  "version": "1.0.0",
+  "description": "Allows picking of labels and associated colors via searchkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightshiftdevelopment/searchkit-color-picker.git"
+  },
+  "keywords": [
+    "elasticsearch",
+    "searchkit",
+    "color",
+    "picker"
+  ],
+  "author": "Night Shift Development, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nightshiftdevelopment/searchkit-color-picker/issues"
+  },
+  "homepage": "https://github.com/nightshiftdevelopment/searchkit-color-picker#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-color": "^2.17.3",
+    "react-dom": "^16.12.0",
+    "searchkit": "^2.3.1-alpha.9"
+  }
+}

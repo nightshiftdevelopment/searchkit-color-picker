@@ -2,7 +2,7 @@
   "name": "searchkit-color-picker",
   "version": "1.1.0",
   "description": "Allows picking of labels and associated colors via searchkit",
-  "main": "dist/src/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "./node_modules/.bin/tsc; ./node_modules/.bin/webpack",
@@ -39,6 +39,7 @@
     "@babel/plugin-proposal-export-default-from": "^7.5.2",
     "@babel/plugin-transform-react-jsx": "^7.7.0",
     "file-loader": "^4.3.0",
+    "react-scripts": "^3.2.0",
     "ts-loader": "^6.2.1",
     "ts-node": "^8.5.2",
     "typescript": "^3.7.2",

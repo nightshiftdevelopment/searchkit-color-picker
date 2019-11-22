@@ -7,7 +7,7 @@ import {
 const assign = require("lodash/assign")
 const isUndefined = require("lodash/isUndefined")
 
-
+/**
 export interface FacetAccessorOptions {
   operator?:string,
   title?:string,
@@ -30,7 +30,7 @@ export interface ISizeOption {
   label:string,
   size:number
 }
-
+*/
 export default class ColorPickerAccessor extends Accessor {
 
   constructor(key, colorField, labelField, options) {
